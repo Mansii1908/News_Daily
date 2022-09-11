@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Daily</string>
+    <string name="api_key">3904cd0d6755430faa142ee55dfa78bb</string>
+    <string name="general">general</string>
+</resources>
